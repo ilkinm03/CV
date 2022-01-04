@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @ilkinm03 | Ilkin.
-- 👀 I’m interested in programming, books, films, pets, food.
+- 👋 Hi there, I’m @ilkinm03 | Ilkin.
+- 
+- 👀 I’m interested in programming, books, films, food.
+- 
 - 🌱 I’m currently learning full-stack web development.
-- 💞️ I’m looking to collaborate on ...
+- 
 - 📫 You can reach me ilkinm03@gmail.com
