@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilkin</h1>
 <h3 align="center">A frontend web developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **backedn web development**.
+- 🌱 I’m currently learning **backend web development**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilkinm03](https://github.com/ilkinm03)
 
