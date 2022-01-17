@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilkin</h1>
-<h3 align="center">A frontend web developer from Azerbaijan</h3>
+<h3 align="center">A fullstack web developer from Azerbaijan</h3>
 
 - 🌱 I’m currently learning **backend web development**.
 
