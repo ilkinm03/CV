@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilkinm03](https://github.com/ilkinm03)
 
-- 📫 How to reach me **ilkinm2003@gmail.com**
+- 📫 How to reach me **ilkinmammadli01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
